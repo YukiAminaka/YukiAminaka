@@ -19,11 +19,13 @@
 
 ## Stats
 
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiAminaka&show_icons=true&theme=vue-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YukiAminaka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YukiAminaka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YukiAminaka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YukiAminaka&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YukiAminaka&theme=github_dark&utcOffset=9)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiAminaka&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YukiAminaka&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YukiAminaka&theme=discord)](https://github.com/YukiAminaka/github-profile-trophy)
 
 
 
