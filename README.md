@@ -31,7 +31,7 @@
 
 ## Skill
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,arduino,js,typescript,react,next,postgres,github,vscode,docker,aws,vite,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,arduino,python,js,typescript,react,next,postgres,github,vscode,docker,aws,vite,linux" /> <br /><br />
 
 
 
