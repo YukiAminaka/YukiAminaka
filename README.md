@@ -29,7 +29,7 @@
 
 ## Skill
 
-<img src="https://skillicons.dev/icons?i=html,css,cpp,arduino,python,java,js,typescript,react,postgres,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=cpp,arduino,js,postgres,linux" /> <br /><br />
 
 
 
