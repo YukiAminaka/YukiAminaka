@@ -25,13 +25,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YukiAminaka&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YukiAminaka&theme=github_dark&utcOffset=9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YukiAminaka&theme=discord)](https://github.com/YukiAminaka/github-profile-trophy)
-
 
 
 ## Skill
 
-<img src="https://skillicons.dev/icons?i=html,css,cpp,arduino,python,java,js,typescript,react,next,postgres,github,docker,aws,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,arduino,python,java,js,typescript,react,postgres,linux" /> <br /><br />
 
 
 
